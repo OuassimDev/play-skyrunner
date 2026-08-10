@@ -12,4 +12,4 @@ Whether you’re looking to kill a few minutes or dominate the leaderboards, tes
 
 🌐 Play the game here: https://play-skyrunner.vercel.app
 
-👨‍💻 Created by: @OuassimDev
+👨‍💻 Created by: [@OuassimDev](https://github.com/OuassimDev)
